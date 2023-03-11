@@ -1,4 +1,4 @@
-### Git & Github
+## Git & Github
 - What is source code management
 - What is Git
 - What is GitHub
